@@ -1,2 +1,2 @@
-# projects
-TEXT BASED CAMEL GAME IN PROGRESS_________________________________________________________________________
+# Genius Hour Stuff
+C++ progress and stuff wow

@@ -3,6 +3,14 @@
 //also defining integers 
 int a = 1;
 // "int" tells the computer that you are defining a new integer variable or a whole number and the "a" is the name of the integer
-// and "1" is basically the value assigned to "a" so that you can use 
+// and "1" is basically the value assigned to "a" so that you can use it and change it. An example using an if statement below.
 
-if(
+if(a=1){
+  a++;
+} else {
+  //if the parameters are false then anything in these brackets will be run
+}
+
+//The parenthesis next to "if" is where the parameters for the command go "a=1" are the parameters, this checks if the "a" variable
+//is equal to one and if so it does what is in the brackets, which is add 1 to the "a" variable.
+

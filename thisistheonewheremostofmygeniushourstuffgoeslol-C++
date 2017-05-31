@@ -1,0 +1,8 @@
+//if statments are basically the same as Java's if statments so I don't really need to go much more into it but this is what it
+//would look like I guess
+//also defining integers 
+int a = 1;
+// "int" tells the computer that you are defining a new integer variable or a whole number and the "a" is the name of the integer
+// and "1" is basically the value assigned to "a" so that you can use 
+
+if(

@@ -16,13 +16,18 @@ if(a=1){
 //is equal to one and if so it does what is in the brackets, which is add 1 to the "a" variable and if not, the program goes to else.
 
 
-#include <iostream>
-using namespace std;//
+#include <iostream> // this is required to compile the program.
+using namespace std; // Tells the compiler to use the specified namespace. CANT FIND A gOOD DEFINITION FOR NAMESPACE
 
-int main() {  //"int main()" tells the computer that this is the main statment to run from when the program starts.
-   cout << "Hello World"; //"cout << "Hello World";" print "Hello World" into the console when the program runs.
-   return 0; //This returns 0 and ends the statement.
+int main() {                 //"int main()" tells the computer that this is the main statment to run from when the program starts.
+   cout << "Hello World";    //prints "Hello World" into the console when the program runs.
+   return 0;                 //This returns 0 and ends the statement.
 }
 
+//While loops take a true or false parameter and repeats whatever is in the brackets as long as the parameter is true.
 
-
+while(a=2){
+  a++
+}
+// if the while loop and the if statement above were in the same main function [int main()] then the parameter in the while statement
+is true and it would continuously add 1 to the "a" variable forever.
